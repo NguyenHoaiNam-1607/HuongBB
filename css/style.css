@@ -11,7 +11,7 @@ body {
     #container {
       width: 100%;
       -webkit-perspective: 1000;
-      -webkit-perspective-origin: 50% 100px;
+      -webkit-perspective-origin: 50% 300px;
     }
     #stage {
       width: 100%;
